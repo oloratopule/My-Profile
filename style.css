@@ -1,0 +1,146 @@
+body {
+  background-color: rgba(255, 249, 239, 255);
+}
+.overall {
+  background-color: rgba(22, 22, 22, 255);
+  margin-left: 60px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  margin-right: 60px;
+  border-radius: 5px;
+  height: 1200px;
+  color: white;
+}
+.main {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
+.header {
+  padding-left: 30px;
+  color: rgba(137, 137, 137, 255);
+  font-family: Bahnschrift SemiBold;
+  margin-right: 20px;
+}
+.home {
+  font-family: Bahnschrift SemiBold;
+}
+.name {
+  font-family: "Parisienne", cursive;
+  font-size: 35px;
+  margin-left: 35px;
+}
+.text {
+  margin-left: 50px;
+  margin-top: 60px;
+}
+.model {
+  font-size: 50px;
+  font-family: Gigi;
+}
+.tech {
+  font-size: 50px;
+  font-family: Gigi;
+}
+.software {
+  font-size: 50px;
+  font-family: Gigi;
+}
+.intro {
+  color: white;
+  font-size: small;
+  margin-top: 60px;
+  font-family: Bahnschrift SemiBold;
+}
+
+.main-content {
+  display: flex;
+  justify-content: space-around;
+}
+.socials {
+  margin-top: 80px;
+  margin-left: 30px;
+  color: white;
+  display: flex;
+}
+.fb {
+  width: 60px;
+}
+.twitter {
+  width: 60px;
+}
+.insta {
+  width: 60px;
+}
+.email {
+  width: 60px;
+}
+.img1 {
+  text-align: end;
+}
+.btn {
+  background-color: #fff824;
+  margin-left: 20px;
+  border-radius: 25px;
+  border: none;
+  height: 40px;
+  width: 150px;
+}
+hr {
+  margin-top: 100px;
+}
+.intro {
+  margin-left: 20px;
+  color: white;
+}
+.about {
+  color: white;
+  margin-left: 30px;
+  margin-right: 10px;
+  font-family: Bahnschrift SemiBold;
+  margin-top: 300px;
+  font-size: small;
+}
+.hi {
+  font-family: Gigi;
+  color: white;
+  text-align: center;
+  font-size: xx-large;
+}
+.con {
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+  color: white;
+  text-align: center;
+  font-weight: 900;
+}
+.img2 {
+  margin-left: 100px;
+  margin-top: 100px;
+  margin-left: 300px;
+}
+.de {
+  font-family: Gigi;
+  font-size: xx-large;
+}
+.head {
+  display: flex;
+}
+.hi2 {
+  text-align: center;
+  font-family: Gigi;
+  font-size: xx-large;
+}
+.contact {
+  color: white;
+  font-size: larger;
+  font-weight: bold;
+}
+a {
+  text-decoration: none;
+}
+.img3{
+    text-align: center;
+    margin-top: 80px;
+}
